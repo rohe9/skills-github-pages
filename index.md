@@ -1,7 +1,7 @@
 ---
-title: Welcome
+title: Rosa(Yuxin) He
 ---
 
-Welcome to Yuxin (Rosa) He's Personal Website
+Welcome to Rosa(Yuxin) He's Personal Website
 
 *Economist | Researcher | Advocate for Inclusive Development*
