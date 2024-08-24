@@ -2,8 +2,7 @@
 title: CV/Resume
 ---
 
-You can download my detailed CV here.
-<a href="assets/pdf/rosa_cv_general.pdf" download>Download My CV/Resume</a>
+You can <a href="assets/pdf/rosa_cv_general.pdf" download>download My CV/Resume here</a>.
 
 Summary
 --
