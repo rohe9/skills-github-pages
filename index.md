@@ -2,11 +2,13 @@
 title: Rosa(Yuxin) He
 ---
 
-Welcome to Rosa(Yuxin) He's Personal Website
+##### Welcome to Rosa(Yuxin) He's Personal Website
 
 <p><i>Economist | Researcher | Advocate for Inclusive Development</i></p>
 
+
 ---
+
 Hello and Welcome!
 
 I'm Rosa(Yuxin) He, a dedicated economist and researcher specializing in Global Development Economics. Currently pursuing my master's degree at Boston University, my work centers around exploring the intricate relationships between gender dynamics, economic development, and effective policy interventions.
