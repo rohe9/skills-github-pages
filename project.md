@@ -5,6 +5,7 @@ title: Recent Projects
 ---
 Water Access and Livelihoods of Tribal Populations in Central India
 --
+
 2024
 
 - **Overview**: This project analyzes the impact of declining freshwater access on agriculture, health, and livelihoods in the Sarunala Valley, Jharkhand, India.
@@ -15,6 +16,7 @@ Water Access and Livelihoods of Tribal Populations in Central India
 ---
 Summary and Critical Analysis of “Are Banks Really Informed? Evidence from their Private Credit Assessments”
 --
+
 2023
 
 - **Overview**: Conducted a critical analysis of the paper by Mehdi Beyhaghi, Cooper Howes, and Gregory Weitzner, evaluating banks' informational advantages over public markets in predicting firms' financial outcomes.
@@ -25,6 +27,7 @@ Summary and Critical Analysis of “Are Banks Really Informed? Evidence from the
 ---
 The Relationship Between Gender Inequality and Maternal Mortality Rates in Kenya
 --
+
 2023
 
 - **Overview**: This project investigates how various forms of misogyny are related to maternal mortality rates among women in Kenya. It focuses on how socio-cultural factors and discriminatory practices impact women's health outcomes.
