@@ -4,6 +4,7 @@ title: Recent Projects
 
 ---
 ### Water Access and Livelihoods of Tribal Populations in Central India
+in progress
 
 2024
 
@@ -14,6 +15,7 @@ title: Recent Projects
 
 ---
 ### Summary and Critical Analysis of “Are Banks Really Informed? Evidence from their Private Credit Assessments”
+<a href="assets/pdf/Copy of Summary and Critical Analysis of _Are Banks Really Informed_.pdf" download>full text</a>
 
 2023
 
@@ -24,6 +26,7 @@ title: Recent Projects
 
 ---
 ### The Relationship Between Gender Inequality and Maternal Mortality Rates in Kenya
+<a href="assets/pdf/ADDRESSING KEY DETERMINANTS FOR MATERNAL MORTALITY  IN KENYA.pdf" download>full text</a>
 
 2023
 
