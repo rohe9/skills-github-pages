@@ -11,9 +11,9 @@ Summary
 - Experience: Research Assistant at Boston University, Graduate Economics Association Representative, Volunteer Teacher in Qinghai, China.
 
   <div class="photo-container">
-    <img src="assets/img/teaching1.jpg" alt="Photo 1" width="200">
-    <img src="assets/img/longe.jpg" alt="Photo 2" width="250">
-    <img src="assets/img/daron.jpg" alt="Photo 3" width="250">
+    <img src="assets/img/teaching1.jpg" alt="Photo 1" width="190">
+    <img src="assets/img/longe.jpg" alt="Photo 2" width="270">
+    <img src="assets/img/daron.jpg" alt="Photo 3" width="270">
   </div>
 
 
