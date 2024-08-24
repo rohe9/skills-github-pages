@@ -12,8 +12,8 @@ Summary
 
   <div class="photo-container">
     <img src="assets/img/teaching1.jpg" alt="Photo 1" width="200">
-    <img src="assets/img/longe.jpg" alt="Photo 2" width="200">
-    <img src="assets/img/daron.jpg" alt="Photo 3" width="200">
+    <img src="assets/img/longe.jpg" alt="Photo 2" width="220">
+    <img src="assets/img/daron.jpg" alt="Photo 3" width="220">
   </div>
 
 
