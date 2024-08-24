@@ -3,8 +3,7 @@ title: Recent Projects
 ---
 
 ---
-Water Access and Livelihoods of Tribal Populations in Central India
---
+### Water Access and Livelihoods of Tribal Populations in Central India
 
 2024
 
@@ -14,8 +13,7 @@ Water Access and Livelihoods of Tribal Populations in Central India
 - **Goals**: To provide actionable insights that can inform sustainable water management policies and support the economic resilience of tribal communities.
 
 ---
-Summary and Critical Analysis of “Are Banks Really Informed? Evidence from their Private Credit Assessments”
---
+### Summary and Critical Analysis of “Are Banks Really Informed? Evidence from their Private Credit Assessments”
 
 2023
 
@@ -25,8 +23,7 @@ Summary and Critical Analysis of “Are Banks Really Informed? Evidence from the
 - **Goals**: To offer a comprehensive critique of the study’s conclusions and propose future research directions and regulatory considerations to enhance market transparency and stability.
 
 ---
-The Relationship Between Gender Inequality and Maternal Mortality Rates in Kenya
---
+### The Relationship Between Gender Inequality and Maternal Mortality Rates in Kenya
 
 2023
 
