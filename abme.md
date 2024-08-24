@@ -22,12 +22,12 @@ My primary research interests include:
 **Master of Arts in Global Development Economics**\
 Boston University, Boston, MA\
 _Expected Graduation: December 2024_
-- Relevant Courses: Global Policy Analysis, Poverty, Health, and Development, Environment and Development, Public Finance
+- Relevant Courses: Global Policy Analysis, Poverty, Health, and Development, Environment and Development, Public Finance, Econometrics 
 
 **Bachelor in Economics (Minor in Mathematics)**\
 Colorado State University, Fort Collins, CO\
 _Graduated: 2022_
-- Relevant Courses: Labor Economics, Economic Development, Demographic Economics
+- Relevant Courses: Labor Economics, Economic Development, Demographic Economics, Natural Resources Economics
 
 ---
 ### Personal Interests
