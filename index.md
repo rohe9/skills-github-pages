@@ -1,11 +1,11 @@
 ---
-title: Rosa(Yuxin) He
+title: Yuxin(Rosa) He
 ---
 <div style="text-align: right;">
 <img src="assets/img/rosa conference 1.jpg" alt="Profile Photo" style="width: 200px; height: auto;">
 </div>
 
-##### Welcome to Rosa(Yuxin) He's Personal Website
+##### Welcome to Rosa's Personal Website
 
 <p><i>Economist | Researcher | Advocate for Inclusive Development</i></p>
 
