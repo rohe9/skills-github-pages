@@ -1,5 +1,5 @@
 ---
-title: Rosa(Yuxin) He
+title: Rosa He
 ---
 <div style="text-align: right;">
 <img src="assets/img/rosa conference 1.jpg" alt="Profile Photo" style="width: 200px; height: auto;">
