@@ -3,7 +3,7 @@ title: CV/Resume
 ---
 
 You can download my detailed CV here.
-[Download My CV/Resume](file:///D:/sciDoc/other%20doc/rosa_cv_general.pdf)
+<a href="assets/pdf/rosa_cv_general.pdf" download>Download My CV/Resume</a>
 
 Summary
 --
