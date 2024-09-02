@@ -7,7 +7,7 @@ title: Yuxin(Rosa) He
 
 ##### Welcome to Rosa's Personal Website
 
-<p><i>Economist | Researcher | Advocate for Inclusive Development</i></p>
+<p><i>Economist(almost) | Researcher | Advocate for Inclusive Development</i></p>
 
 
 ---
